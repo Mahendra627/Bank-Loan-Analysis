@@ -54,26 +54,21 @@ This is an end-to-end Data Analytics project that analyzes bank loan data to eva
 
 ---
 
-# 🔄 Project Workflow
+## Project Workflow
 
-text
-                     Raw Bank Loan Dataset
-                              │
-                              ▼
-        Microsoft Excel (Data Cleaning & Validation)
-                              │
-                              ▼
-        SQL (Data Extraction, Queries & KPI Analysis)
-                              │
-                              ▼
-     Python (EDA, Data Transformation & Visualization)
-                              │
-                              ▼
-     Power BI (Data Modeling, DAX & Dashboard Development)
-                              │
-                              ▼
-          Business Insights & Decision Making
-
+```
+    Bank Loan Dataset
+        ↓
+Microsoft Excel (Data Cleaning & Validation)
+        ↓
+SQL (Data Extraction, Queries & KPI Analysis)
+        ↓
+Python (EDA, Data Transformation & Visualization)
+        ↓
+Power BI (Data Modeling, DAX & Dashboard Development)
+        ↓
+Business Insights & Decision Making
+```
 
 ---
 
