@@ -56,10 +56,24 @@ This is an end-to-end Data Analytics project that analyzes bank loan data to eva
 ## 📸 Dashboard Preview
 
 ### Power BI Dashboard
-(Add your Power BI dashboard screenshot here)
-
+The Power BI dashboard provides an interactive analysis of bank loan data. It is divided into three pages, each focusing on a different aspect of loan performance.
+📊 Summary Dashboard
+The Summary Dashboard provides a high-level overview of the bank loan portfolio by displaying key KPIs such as Total Loan Applications (38.6K), Total Funded Amount ($435.8M), Total Amount Received ($473.1M), Average Interest Rate (12.05%), and Average DTI (13.33%). It also compares Good Loans (86.2%) and Bad Loans (13.8%), shows loan status (Fully Paid, Charged Off, Current), and includes interactive filters for Purpose, Grade, and State.
+![alt text](<Images/Bank Loan Report Power BI - Summary.png>)
+📈 Overview Dashboard
+The Overview Dashboard analyzes loan trends and customer behavior using visualizations such as Monthly Loan Applications, State-wise Loan Distribution, Funded Amount by Loan Term, Employee Length Analysis, Loan Purpose Analysis, and Home Ownership Analysis. Interactive filters enable users to analyze data by Measure, Good vs Bad Loan, Grade, and State.
+![alt text](<Images/Bank Loan Report Power BI - Overview.png>)
+📋 Details Dashboard
+The Details Dashboard provides a transaction-level view of loan records, including Loan ID, Purpose, Home Ownership, Grade, Sub-Grade, Issue Date, Funded Amount, Interest Rate, Installment, and Amount Received. It also includes KPI cards and interactive filters for Good vs Bad Loan, Grade, and State to support detailed analysis.
+![alt text](<Images/Bank Loan Report Power BI - Details.png>)
 ### Excel Dashboard
-(Add your Excel dashboard screenshot here)
+The Excel dashboard provides an interactive analysis of bank loan data. It is divided into two pages, each focusing on a different aspect of loan performance.
+📊 Summary Dashboard
+The Summary Dashboard provides a high-level overview of the bank loan portfolio by displaying key KPIs such as Total Loan Applications (38.6K), Total Funded Amount ($435.8M), Total Amount Received ($473.1M), Average Interest Rate (12.05%), and Average DTI (13.33%). It also compares Good Loans (86.2%) and Bad Loans (13.8%), shows loan status (Fully Paid, Charged Off, Current), and includes interactive filters for Purpose, Grade, and State.
+![alt text](<Images/Bank Loan Report Excel - Summary.png>)
+📈 Overview Dashboard
+The Overview Dashboard analyzes loan trends and customer behavior using visualizations such as Monthly Loan Applications, State-wise Loan Distribution, Funded Amount by Loan Term, Employee Length Analysis, Loan Purpose Analysis, and Home Ownership Analysis. Interactive filters enable users to analyze data by Measure, Good vs Bad Loan, Grade, and State.
+![alt text](<Images/Bank Loan Report Excel - Overview.png>)
 
 ---
 
@@ -110,6 +124,6 @@ Bank-Loan-Analysis/
 
 Aspiring Data Analyst skilled in SQL, Python, Excel, and Power BI.
 
-LinkedIn: (Add your LinkedIn profile)
+LinkedIn: www.linkedin.com/in/mahendra-gundapaneni
 
 GitHub: https://github.com/Mahendra627
